@@ -13,6 +13,6 @@ Speech synthesis, which consists of several key tasks including text to speech (
 
 
 ## Materials
-[Slides](https://tts-tutorial.github.io/interspeech2022/tts.pdf)<br>
-
+[Slides for TTS](https://tts-tutorial.github.io/interspeech2022/INTERSPEECH_Tutorial_TTS.pdf)<br>
+[Slides for VC](https://tts-tutorial.github.io/interspeech2022/INTERSPEECH_Tutorial_VC.pdf) 
 
